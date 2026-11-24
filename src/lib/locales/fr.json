@@ -1,0 +1,177 @@
+{
+  "app": {
+    "name": "Inobilier Étudiant",
+    "tagline": "Le logement étudiant au Maroc, en toute confiance."
+  },
+  "common": {
+    "continue": "Continuer",
+    "back": "Retour",
+    "cancel": "Annuler",
+    "loading": "Chargement…",
+    "idLabel": "Identifiant : {{id}}",
+    "placeholder": "Écran provisoire"
+  },
+  "actions": {
+    "exploreAsGuest": "Explorer sans compte",
+    "sendCode": "Envoyer le code",
+    "verify": "Vérifier",
+    "viewTerms": "Conditions d'utilisation",
+    "imStudent": "Je suis étudiant",
+    "imLandlord": "Je suis propriétaire",
+    "openListing": "Voir l'annonce",
+    "search": "Rechercher",
+    "filters": "Filtres",
+    "apply": "Appliquer",
+    "openChat": "Ouvrir la conversation",
+    "chat": "Discuter",
+    "report": "Signaler",
+    "submit": "Envoyer",
+    "viewLandlord": "Voir le propriétaire",
+    "viewStudent": "Voir l'étudiant",
+    "viewPhotos": "Voir les photos",
+    "notifications": "Notifications",
+    "signOut": "Se déconnecter",
+    "newListing": "Nouvelle annonce",
+    "editListing": "Modifier l'annonce",
+    "analytics": "Statistiques",
+    "startVerification": "Faire vérifier mon compte"
+  },
+  "language": {
+    "french": "Français",
+    "arabic": "العربية",
+    "current": "Langue actuelle : {{language}}"
+  },
+  "tabs": {
+    "home": "Accueil",
+    "map": "Carte",
+    "saved": "Favoris",
+    "inbox": "Messages",
+    "profile": "Profil",
+    "dashboard": "Tableau de bord",
+    "listings": "Annonces",
+    "inquiries": "Demandes"
+  },
+  "screens": {
+    "splash": {
+      "title": "Inobilier Étudiant",
+      "description": "Écran de lancement : logo et vérification de la session."
+    },
+    "onboarding": {
+      "title": "Bienvenue",
+      "description": "Présentation de l'application en quelques étapes."
+    },
+    "language": {
+      "title": "Choisissez votre langue",
+      "description": "Sélection de la langue de l'application."
+    },
+    "phone": {
+      "title": "Votre numéro",
+      "description": "Saisie du numéro de téléphone marocain pour recevoir un code."
+    },
+    "otp": {
+      "title": "Code de vérification",
+      "description": "Saisie du code reçu par SMS."
+    },
+    "role": {
+      "title": "Vous êtes…",
+      "description": "Choix du profil : étudiant ou propriétaire."
+    },
+    "setupStudent": {
+      "title": "Profil étudiant",
+      "description": "Nom, université et ville d'études."
+    },
+    "setupLandlord": {
+      "title": "Profil propriétaire",
+      "description": "Nom, ville et informations de contact."
+    },
+    "terms": {
+      "title": "Conditions d'utilisation",
+      "description": "Conditions générales et politique de confidentialité."
+    },
+    "home": {
+      "title": "Accueil",
+      "description": "Annonces recommandées près de votre université."
+    },
+    "map": {
+      "title": "Carte",
+      "description": "Annonces affichées sur une carte."
+    },
+    "saved": {
+      "title": "Favoris",
+      "description": "Les annonces que vous avez enregistrées."
+    },
+    "inbox": {
+      "title": "Messages",
+      "description": "Vos conversations avec les propriétaires."
+    },
+    "studentProfile": {
+      "title": "Mon profil",
+      "description": "Informations personnelles, langue et paramètres."
+    },
+    "search": {
+      "title": "Recherche",
+      "description": "Recherche d'annonces par ville, université et budget."
+    },
+    "dashboard": {
+      "title": "Tableau de bord",
+      "description": "Vue d'ensemble : vues, demandes et taux d'occupation."
+    },
+    "listings": {
+      "title": "Mes annonces",
+      "description": "Gestion de vos logements publiés."
+    },
+    "inquiries": {
+      "title": "Demandes",
+      "description": "Messages des étudiants intéressés."
+    },
+    "landlordProfile": {
+      "title": "Mon profil",
+      "description": "Informations du propriétaire et vérification."
+    },
+    "listingEditor": {
+      "titleNew": "Nouvelle annonce",
+      "titleEdit": "Modifier l'annonce",
+      "description": "Photos, prix, adresse et équipements du logement."
+    },
+    "verification": {
+      "title": "Vérification",
+      "description": "Vérification d'identité du propriétaire (CIN)."
+    },
+    "analytics": {
+      "title": "Statistiques",
+      "description": "Performances détaillées de vos annonces."
+    },
+    "listing": {
+      "title": "Annonce",
+      "description": "Détails du logement : photos, prix, équipements, propriétaire."
+    },
+    "chat": {
+      "title": "Conversation",
+      "description": "Messagerie entre étudiant et propriétaire."
+    },
+    "landlordPublic": {
+      "title": "Propriétaire",
+      "description": "Profil public du propriétaire et ses annonces."
+    },
+    "studentPublic": {
+      "title": "Étudiant",
+      "description": "Profil public de l'étudiant."
+    },
+    "photoGallery": {
+      "title": "Photos",
+      "description": "Galerie de photos en plein écran."
+    },
+    "notifications": {
+      "title": "Notifications",
+      "description": "Nouveaux messages, demandes et alertes."
+    },
+    "filter": {
+      "title": "Filtres",
+      "description": "Prix, université, ville et équipements."
+    },
+    "report": {
+      "title": "Signaler",
+      "description": "Signaler une annonce ou un utilisateur."
+    }
+  }
+}

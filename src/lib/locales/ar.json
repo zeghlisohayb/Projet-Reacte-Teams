@@ -1,0 +1,177 @@
+{
+  "app": {
+    "name": "إنوبيليي طالب",
+    "tagline": "سكن الطلبة في المغرب، بكل ثقة."
+  },
+  "common": {
+    "continue": "متابعة",
+    "back": "رجوع",
+    "cancel": "إلغاء",
+    "loading": "جارٍ التحميل…",
+    "idLabel": "المعرّف: {{id}}",
+    "placeholder": "شاشة مؤقتة"
+  },
+  "actions": {
+    "exploreAsGuest": "تصفّح بدون حساب",
+    "sendCode": "إرسال الرمز",
+    "verify": "تحقّق",
+    "viewTerms": "شروط الاستخدام",
+    "imStudent": "أنا طالب",
+    "imLandlord": "أنا مالك",
+    "openListing": "عرض الإعلان",
+    "search": "بحث",
+    "filters": "الفلاتر",
+    "apply": "تطبيق",
+    "openChat": "فتح المحادثة",
+    "chat": "مراسلة",
+    "report": "إبلاغ",
+    "submit": "إرسال",
+    "viewLandlord": "عرض المالك",
+    "viewStudent": "عرض الطالب",
+    "viewPhotos": "عرض الصور",
+    "notifications": "الإشعارات",
+    "signOut": "تسجيل الخروج",
+    "newListing": "إعلان جديد",
+    "editListing": "تعديل الإعلان",
+    "analytics": "الإحصائيات",
+    "startVerification": "توثيق حسابي"
+  },
+  "language": {
+    "french": "Français",
+    "arabic": "العربية",
+    "current": "اللغة الحالية: {{language}}"
+  },
+  "tabs": {
+    "home": "الرئيسية",
+    "map": "الخريطة",
+    "saved": "المفضلة",
+    "inbox": "الرسائل",
+    "profile": "الحساب",
+    "dashboard": "لوحة التحكم",
+    "listings": "الإعلانات",
+    "inquiries": "الطلبات"
+  },
+  "screens": {
+    "splash": {
+      "title": "إنوبيليي طالب",
+      "description": "شاشة البداية: الشعار والتحقق من الجلسة."
+    },
+    "onboarding": {
+      "title": "مرحبًا",
+      "description": "تعريف بالتطبيق في بضع خطوات."
+    },
+    "language": {
+      "title": "اختر لغتك",
+      "description": "اختيار لغة التطبيق."
+    },
+    "phone": {
+      "title": "رقم هاتفك",
+      "description": "أدخل رقم هاتفك المغربي لتلقي رمز التحقق."
+    },
+    "otp": {
+      "title": "رمز التحقق",
+      "description": "أدخل الرمز الذي وصلك عبر رسالة نصية."
+    },
+    "role": {
+      "title": "أنت…",
+      "description": "اختر نوع الحساب: طالب أو مالك."
+    },
+    "setupStudent": {
+      "title": "حساب الطالب",
+      "description": "الاسم والجامعة ومدينة الدراسة."
+    },
+    "setupLandlord": {
+      "title": "حساب المالك",
+      "description": "الاسم والمدينة ومعلومات التواصل."
+    },
+    "terms": {
+      "title": "شروط الاستخدام",
+      "description": "الشروط العامة وسياسة الخصوصية."
+    },
+    "home": {
+      "title": "الرئيسية",
+      "description": "إعلانات مقترحة قرب جامعتك."
+    },
+    "map": {
+      "title": "الخريطة",
+      "description": "الإعلانات معروضة على الخريطة."
+    },
+    "saved": {
+      "title": "المفضلة",
+      "description": "الإعلانات التي حفظتها."
+    },
+    "inbox": {
+      "title": "الرسائل",
+      "description": "محادثاتك مع الملاك."
+    },
+    "studentProfile": {
+      "title": "حسابي",
+      "description": "المعلومات الشخصية واللغة والإعدادات."
+    },
+    "search": {
+      "title": "البحث",
+      "description": "ابحث عن سكن حسب المدينة والجامعة والميزانية."
+    },
+    "dashboard": {
+      "title": "لوحة التحكم",
+      "description": "نظرة عامة: المشاهدات والطلبات ونسبة الإشغال."
+    },
+    "listings": {
+      "title": "إعلاناتي",
+      "description": "إدارة المساكن المنشورة."
+    },
+    "inquiries": {
+      "title": "الطلبات",
+      "description": "رسائل الطلبة المهتمين."
+    },
+    "landlordProfile": {
+      "title": "حسابي",
+      "description": "معلومات المالك والتوثيق."
+    },
+    "listingEditor": {
+      "titleNew": "إعلان جديد",
+      "titleEdit": "تعديل الإعلان",
+      "description": "الصور والسعر والعنوان ومرافق السكن."
+    },
+    "verification": {
+      "title": "التوثيق",
+      "description": "التحقق من هوية المالك (البطاقة الوطنية)."
+    },
+    "analytics": {
+      "title": "الإحصائيات",
+      "description": "أداء إعلاناتك بالتفصيل."
+    },
+    "listing": {
+      "title": "الإعلان",
+      "description": "تفاصيل السكن: الصور والسعر والمرافق والمالك."
+    },
+    "chat": {
+      "title": "المحادثة",
+      "description": "المراسلة بين الطالب والمالك."
+    },
+    "landlordPublic": {
+      "title": "المالك",
+      "description": "الملف العام للمالك وإعلاناته."
+    },
+    "studentPublic": {
+      "title": "الطالب",
+      "description": "الملف العام للطالب."
+    },
+    "photoGallery": {
+      "title": "الصور",
+      "description": "معرض الصور بملء الشاشة."
+    },
+    "notifications": {
+      "title": "الإشعارات",
+      "description": "الرسائل والطلبات والتنبيهات الجديدة."
+    },
+    "filter": {
+      "title": "الفلاتر",
+      "description": "السعر والجامعة والمدينة والمرافق."
+    },
+    "report": {
+      "title": "إبلاغ",
+      "description": "الإبلاغ عن إعلان أو مستخدم."
+    }
+  }
+}
